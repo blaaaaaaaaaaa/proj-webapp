@@ -1,0 +1,7 @@
+{
+    "api_key": "8fc1c1ab7f7a0be637784f6b031ce36a",
+    "base_url": "https://auth.emilfolino.se",
+    "train_delays": "https://trafik.emilfolino.se/delayed",
+    "train_messages": "https://trafik.emilfolino.se/messages",
+    "train_stations": "https://trafik.emilfolino.se/stations"
+}
